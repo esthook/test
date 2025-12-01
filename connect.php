@@ -15,7 +15,7 @@
 $www="dbsuccess.net";
 $mainname="dbsuccess.net";
 $maintel="-";
-$mainemail="info@dbsuccess.net";
+$mainemail="info@dbsuccess.net2";
 /* FTP Hostname: dbsuccess.net หรือ 119.59.104.31
 FTP Username: dbsucces
 FTP Password: 0Zkd620mRs

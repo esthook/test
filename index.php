@@ -19,7 +19,7 @@
 	<div style="width:100%;margin:0 auto;display:block;">
 	<div style="float:right;"><a href="member/login.php"><img src="liner/images/member_login_th.gif"></a></div>
 	<div style="clear:both;"></div>
-	<center><h1 style="color: red;text-shadow: 0 0 0.2em #A6A6A9, 0 0 0.2em ;font-size:45px;">WWW.7FSNETWORK.COM12345</h1></center>
+	<center><h1 style="color: red;text-shadow: 0 0 0.2em #A6A6A9, 0 0 0.2em ;font-size:45px;">WWW.7FSNETWORK.COM123</h1></center>
 
 		
 		<center><img src="head.jpg"></center>
